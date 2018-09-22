@@ -10,7 +10,10 @@ Script hauek erabiltzeko, aldatzeko eta aztertzeko libre zara, baina zure erantz
 NOLA EXEKUTATU
 ==============
 
-Script hauek exekutatzeko eragiketa bakoitzaren betebeharrak asetu (ikus beherago) eta python 3 eskuragarri duen sistema batean exekutatu beharko dituzu. Horretarako zabaldu terminal bat eta exekutatu ```python __script_izena__````
+Script hauek exekutatzeko eragiketa bakoitzaren betebeharrak asetu (ikus beherago) eta python 3 eskuragarri duen sistema batean exekutatu beharko dituzu. Horretarako zabaldu terminal bat eta exekutatu 
+```
+python __script_izena__
+````
 
 *Software hau MacOSx sistema batean frogatu da.
 
