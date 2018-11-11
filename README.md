@@ -32,9 +32,10 @@ Eskolaz kanpoko ekintzetako partaide zerrendak kalkulatu
 Ikasle bakoitzari dagokion kostu eta ordainketa mota kalkulatu
 --------------------------------------------------------------
 
-- Eragiketa honen funtzionamentua aldatzen ari da.
-- Bertsio honetan _ikasleak_{zikloa}.csv_ izeneko fitxategiak hartu eta prozesatzen ditu
+- Sarrera direktorioan ekintza bakoitzari dagokion ikasle zerrenda gordeko da zikloka. Fitxategiak csv formatuan egon behar dira eta izendatzeko ekintza_izena_{zikloa}.csv formatua erabili behar da.
+- Aurreko scriptaren emaitza bezala sortutako ikasle_ordainketa_modua.csv  _data_ direktorioan egon behar da
 - _data_ direktorioan ekintza bakoitzaren prezioa zehazten duen _prezioa_{zikloa}.csv_ izeneko fitxategiak behar ditu
+- Sarrera fitxategi horiekin, ikasle bakoitzak guztira ordaindu beharreko diru kopurua eta ordainketa epealdia zein den zehazten duen fitxategi fitxategi bat sortuko dut zikloko.
 
 
 DATU FORMATUAK
