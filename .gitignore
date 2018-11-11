@@ -1,4 +1,7 @@
 output/*
 data/*
+input/*
 izenemateorriak/*
 *.pyc
+.vscode/*
+*.csv
