@@ -64,7 +64,8 @@ def parse_ordainketa(ordainketa_string):
             epeak = 3
         elif 'Bi' in ordainketak:
             epeak = 2
-    return fixed, epeak 
+        ordainketa_string = fixed
+    return ordainketa_string, epeak
 
 if __name__ == '__main__':
     zikloak = ('HH', 'LH')
